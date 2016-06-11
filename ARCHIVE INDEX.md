@@ -5,3 +5,5 @@ Example1: plots temperature and humidity against time from the start of the meas
 Example2: plots temperature and humidity against time from the start of the measurement. Two y axis.
 
 Example3: plots temperature against full date.
+
+Example4: creates an animation that shows temperature against time from the start of the measurement. 
