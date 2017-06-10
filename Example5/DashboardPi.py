@@ -4,10 +4,8 @@
 #Created by Iker García.
 
 import csv
-import datetime
 import matplotlib
 matplotlib.use("Agg") #Added to plot graphs without running X server.
-import matplotlib.dates as md
 import matplotlib.pyplot as plt
 from matplotlib.ticker import FormatStrFormatter
 from mpl_toolkits.mplot3d import Axes3D
